@@ -1,6 +1,6 @@
 backend:
   name: github
-  repor: pabloarak/LibreKnow
+  repo: pabloarak/LibreKnow
 
 media_folder: static/assets
 public_folder: assets
